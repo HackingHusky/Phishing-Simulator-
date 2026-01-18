@@ -85,7 +85,7 @@ python3 -m venv venv
 
 source venv/bin/activate
 
-pin install flask
+pip install flask
 ```
 
 How it works;
